@@ -1,0 +1,12 @@
+{
+  "uuid": "c6c8e9ec-8b66-4ba9-ac6d-62f116576f1f",
+  "name": "TestProjectEg.NUnitTests.Assertions.AssertionsEg",
+  "children": [
+    "653b1a31-adb8-4dce-93a6-d498d76bfc08"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1733991336813,
+  "stop": 1733991336839
+}

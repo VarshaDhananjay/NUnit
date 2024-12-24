@@ -1,0 +1,45 @@
+{
+  "uuid": "b4cbf859-b0f1-410d-8f6e-07b0fc04ff96",
+  "historyId": "ec7448d00a33bcaea817b9e91e8babbd",
+  "testCaseId": "7dd814cf03d37b41d339708a2452ea28",
+  "fullName": "TestProjectEg:TestProjectEg.NUnitTests.Assertions.AssertionsEg()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOKXZENVXZ9EI"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "TestProjectEg.NUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "AssertionsEg"
+    },
+    {
+      "name": "testClass",
+      "value": "Assertions"
+    }
+  ],
+  "links": [],
+  "name": "AssertionsEg",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1734593291123,
+  "stop": 1734593291132
+}
