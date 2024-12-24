@@ -20,9 +20,9 @@ namespace TestProjectEg.SeleniumC_
         {
 
             
-            new WebDriverManager.DriverManager().SetUpDriver(new FirefoxConfig());
+            new WebDriverManager.DriverManager().SetUpDriver(new ChromeConfig());
             // intialize the web driver 
-            driver = new FirefoxDriver();
+            driver = new ChromeDriver();
             // launch the chrome browser
             driver.Manage().Window.Maximize();
             driver.Navigate().GoToUrl("https://the-internet.herokuapp.com/javascript_alerts");
